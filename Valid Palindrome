@@ -1,0 +1,17 @@
+class Solution {
+public:
+    bool isPalindrome(string s) {
+        int first=0;
+        int end=s.length()-1;
+        while(first<=end){
+            if(!iswalnum(s[first])) {first++; continue;}
+            if(!iswalnum(s[end])) {end--; continue;}
+            if(tolower(s[first])!=tolower(s[end])) return false;
+            else{
+            first++;
+            end--;
+            }
+        }
+        return true;  
+    }
+};
