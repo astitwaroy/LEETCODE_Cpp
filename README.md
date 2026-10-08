@@ -51,4 +51,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/astitwaroy/LEETCODE_Cpp/tree/master/0229-majority-element-ii) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/astitwaroy/LEETCODE_Cpp/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/astitwaroy/LEETCODE_Cpp/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/astitwaroy/LEETCODE_Cpp/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
